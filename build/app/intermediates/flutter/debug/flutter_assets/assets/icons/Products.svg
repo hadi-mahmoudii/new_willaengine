@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Products" opacity="1">
+    <g id="align">
+      <path id="Path_308" data-name="Path 308" d="M141.636,1.818H128.909a.909.909,0,0,1,0-1.818h12.727a.909.909,0,0,1,0,1.818Zm0,0" transform="translate(-122.545 0)" fill="#012050"/>
+      <path id="Path_309" data-name="Path 309" d="M19.091,108.486H.909a.909.909,0,1,1,0-1.818H19.091a.909.909,0,1,1,0,1.818Zm0,0" transform="translate(0 -102.122)" fill="#012050"/>
+      <path id="Path_310" data-name="Path 310" d="M141.636,215.15H128.909a.909.909,0,0,1,0-1.818h12.727a.909.909,0,0,1,0,1.818Zm0,0" transform="translate(-122.545 -204.241)" fill="#012050"/>
+      <path id="Path_311" data-name="Path 311" d="M19.091,321.818H.909a.909.909,0,0,1,0-1.818H19.091a.909.909,0,0,1,0,1.818Zm0,0" transform="translate(0 -306.364)" fill="#012050"/>
+      <path id="Path_312" data-name="Path 312" d="M141.636,428.486H128.909a.909.909,0,1,1,0-1.818h12.727a.909.909,0,1,1,0,1.818Zm0,0" transform="translate(-122.545 -408.486)" fill="#012050"/>
+    </g>
+  </g>
+</svg>
